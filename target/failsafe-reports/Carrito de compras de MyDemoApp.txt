@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: Carrito de compras de MyDemoApp
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 92.896 s <<< FAILURE! - in Carrito de compras de MyDemoApp
+Validacion de carrito de compras #2(Carrito de compras de MyDemoApp)  Time elapsed: 26.497 s  <<< FAILURE!
+java.lang.AssertionError: Error: Total en el carrito (10) no coincide con las unidades esperadas (1).
+
+Validacion de carrito de compras #3(Carrito de compras de MyDemoApp)  Time elapsed: 22.615 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: MyDemoAppProductsScreen.displaySelectedProduct (tried for 5 second(s) with 50 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.24'
+Driver info: driver.version: unknown
+

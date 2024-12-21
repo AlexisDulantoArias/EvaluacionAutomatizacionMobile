@@ -1,0 +1,6 @@
+com\nttdata\screens\MyDemoAppIndexScreen.class
+com\nttdata\screens\MyDemoAppProductsScreen.class
+com\nttdata\steps\MyDemoAppSteps.class
+com\nttdata\stepsdefinitions\MyDemoAppStepsDefs.class
+com\nttdata\screens\MyDemoAppMyCartScreen.class
+com\nttdata\runners\CucumberTestSuite.class
